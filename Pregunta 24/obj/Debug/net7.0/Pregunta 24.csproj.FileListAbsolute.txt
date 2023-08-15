@@ -1,0 +1,15 @@
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\bin\Debug\net7.0\Pregunta 24.exe
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\bin\Debug\net7.0\Pregunta 24.deps.json
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\bin\Debug\net7.0\Pregunta 24.runtimeconfig.json
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\bin\Debug\net7.0\Pregunta 24.dll
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\bin\Debug\net7.0\Pregunta 24.pdb
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\Pregunta 24.csproj.AssemblyReference.cache
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\Pregunta 24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\Pregunta 24.AssemblyInfoInputs.cache
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\Pregunta 24.AssemblyInfo.cs
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\Pregunta 24.csproj.CoreCompileInputs.cache
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\Pregunta 24.dll
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\refint\Pregunta 24.dll
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\Pregunta 24.pdb
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\Pregunta 24.genruntimeconfig.cache
+C:\Proyectos 2023\.NET\Pregunta 24\Pregunta 24\obj\Debug\net7.0\ref\Pregunta 24.dll
